@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contactList>
+	<contact>
+		<name>Siho Jang</name>
+		<addr>158, Banpo-daero</addr>
+		<addr>Seocho-gu, Seoul</addr>
+		<tel>02-530-3114</tel>
+		<email>http://www.spo.go.kr/seoul/</email>
+	</contact>
+	<contact>
+		<name>Jeonghyeon Lee</name>
+		<addr>1, Uisadang-daero</addr>
+		<addr>Yeongdeungpo-gu, Seoul</addr>
+		<tel>02-788-2114</tel>
+		<tel>02-788-2114</tel>
+		<email>http://www.assembly.go.kr/</email>
+	</contact>
+	<contact>
+		<name>Yura Jeong</name>
+		<addr>Germany</addr>
+		<tel>05971-808190</tel>
+	</contact>
+</contactList> 
